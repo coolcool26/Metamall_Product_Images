@@ -2,11 +2,11 @@
   "Products": [
   {
     "sku": "0",
-    "product_title": "Cool Blue Shirt",
+    "product_title": "Women Crop T-Shirt",
     "price_USD": "$ 24.99",
     "price_MTML": "MTML 550",
-    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "description": "Cropped T-shirt in soft cotton jersey. Relaxed fit with a round, rib-trimmed neckline, low dropped shoulders and short sleeves that finish just above the elbows.",
+    "image_1": "",
     "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
@@ -14,7 +14,7 @@
   },
     {
     "sku": "1",
-    "product_title": "Pink Shirt",
+    "product_title": "Rolled Sleeves",
     "price_USD": "$ 14.99",
     "price_MTML": "MTML 150",
     "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
