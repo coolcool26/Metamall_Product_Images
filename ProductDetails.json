@@ -108,5 +108,17 @@
     "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
   }, 
+    {
+    "sku": "9",
+    "product_title": "Slim Jeans",
+    "price_USD": "$ 29.95",
+    "price_MTML": "MTML 602",
+    "description": "5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button, and slim legs.",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+  }, 
   ]
 }
