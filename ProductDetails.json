@@ -96,5 +96,17 @@
     "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
   }, 
+    {
+    "sku": "8",
+    "product_title": "Slim Fit Pants",
+    "price_USD": "$ 30.92",
+    "price_MTML": "MTML 620",
+    "description": "97% Cotton, 3% Elastane, Zipper closure, Fitted through hip and thigh, with tapered leg, Sits below the waist Soft, breathable cotton twill with the gentle stretch",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+  }, 
   ]
 }
