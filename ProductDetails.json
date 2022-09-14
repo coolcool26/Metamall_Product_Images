@@ -71,6 +71,30 @@
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
-  }
+  }, 
+     {
+    "sku": "6",
+    "product_title": "Denim Shorts",
+    "price_USD": "$ 49.95",
+    "price_MTML": "MTML 860",
+    "description": "5-pocket shorts in stretch cotton denim with a wide jersey panel at the waist for best fit over the tummy, a fake fly and raw-edge hems",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+  }, 
+    {
+    "sku": "7",
+    "product_title": "Rocker Jeans",
+    "price_USD": "$ 59.95",
+    "price_MTML": "MTML 1050",
+    "description": "100% Cotton, Stretch in some styles, Extra deep pockets",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+  }, 
   ]
 }
