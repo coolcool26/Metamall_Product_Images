@@ -59,6 +59,18 @@
     "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
     "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
+  },
+    {
+    "sku": "5",
+    "product_title": "Basic T-Shirt",
+    "price_USD": "$ 7.95",
+    "price_MTML": "MTML 100",
+    "description": "Regular-fit T-shirt in soft cotton jersey with a round, rib-trimmed neckline and a straight hem",
+    "image_1": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_2": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_3": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_4": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png",
+    "image_5": "https://github.com/psyden6/Metamall-Group/raw/main/Test/1.png"
   }
   ]
 }
